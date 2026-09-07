@@ -1,15 +1,22 @@
 body{
-    background-color: blanchedalmond;
+    background-color: #FCECCF;
     border: 2px solid coral;
+    padding: 2rem 2rem 2rem 2rem;
 }
 
 
 header{
-    background-color: lch(90.04% 4.14 109.82);
+    background-color: #FF6F61);
     border: 2px solid rgb(205, 180, 163);
     text-align: center;
     padding: 2rem 1rem;
     margin: 1rem 1rem 1rem 1rem;
+}
+
+section{
+    background-color: #2EC4B6;
+    border-radius: 2rem;
+    margin: 1rem 1rem;
 }
 
 h2{
@@ -18,8 +25,10 @@ h2{
 
 
 li{
+    background-color: darkcyan;
     border: 2px solid darkcyan;
-    width: fit-content;
+    border-radius: 1rem;
+    width: max-content;
 }
 
 ul{
@@ -29,4 +38,5 @@ ul{
 
 .img-wrapp{
     text-align: center;
+    padding-top: 1rem;
 }
