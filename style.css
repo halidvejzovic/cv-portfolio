@@ -1,0 +1,25 @@
+header{
+    background-color: lch(90.04% 4.14 109.82);
+    border: 2px solid rgb(205, 180, 163);
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+h2{
+    text-align: center;
+}
+
+
+li{
+    border: 2px solid darkcyan;
+    width: fit-content;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+.img-wrapp{
+    text-align: center;
+}
