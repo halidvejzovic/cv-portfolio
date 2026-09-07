@@ -12,5 +12,9 @@ Sen kort prestationen. vad jag gillar med webbutveckling. lite av mig vad jag gi
 
 kunskaper inom webbutveckling inom en navbar ul lista.
 
+lista över arbetslivs livs erfarenhet.
 
+länkar till övningarna i utbildnignen.
+
+kontakr info.
 
