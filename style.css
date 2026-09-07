@@ -1,8 +1,15 @@
+body{
+    background-color: blanchedalmond;
+    border: 2px solid coral;
+}
+
+
 header{
     background-color: lch(90.04% 4.14 109.82);
     border: 2px solid rgb(205, 180, 163);
     text-align: center;
     padding: 2rem 1rem;
+    margin: 1rem 1rem 1rem 1rem;
 }
 
 h2{
