@@ -59,3 +59,8 @@ img{
     place-items: center;
     padding: 2rem 1rem;
 }
+
+.footer{
+    display: grid;
+    text-align: center;
+}
