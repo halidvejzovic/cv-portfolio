@@ -4,12 +4,12 @@ body{
 }
 
 
-header{
+.head{
     background-color: #FF6F61);
     border: 2px solid rgb(205, 180, 163);
     text-align: center;
-    padding: 1rem 1rem;
-    margin: 1rem 1rem 1rem 1rem;
+    margin: 2rem 1rem;
+
 }
 
 section{
@@ -18,9 +18,13 @@ section{
     
 }
 
+p{
+    padding: 2rem 1rem;
+}
+
 h2{
     text-align: center;
-    padding-bottom: 1rem;
+    padding-top: 2rem;
 }
 
 
@@ -33,10 +37,13 @@ li{
     
 }
 
-ul{
+.kunskap{
     display: flex;
-    justify-content: space-around;
-    padding-bottom: 1rem;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 2rem 1rem;
+    gap: 2rem;
 }
 
 .img-wrapp{
@@ -44,6 +51,7 @@ ul{
     /*place-items: center;*/
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 img{
