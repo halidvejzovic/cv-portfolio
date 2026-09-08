@@ -4,7 +4,7 @@ body{
 }
 
 
-.head{
+.head, .footer{
     background-color: #FF6F61;
     border: 2px solid rgb(205, 180, 163);
     text-align: center;
