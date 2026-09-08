@@ -18,7 +18,7 @@ section{
     
 }
 
-p{
+p, a{
     padding: 2rem 1rem;
 }
 
@@ -58,5 +58,9 @@ li{
 
 .footer{
     display: grid;
-    text-align: center;
+    justify-content: center;
 }
+
+
+
+
