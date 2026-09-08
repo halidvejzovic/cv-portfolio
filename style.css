@@ -1,6 +1,6 @@
 body{
     background-color: #FCECCF;
-    padding: 2rem 2rem 2rem 2rem;
+    
 }
 
 
@@ -15,6 +15,7 @@ header{
 section{
     background-color: #2EC4B6;
     border-radius: 2rem;
+    
 }
 
 h2{
@@ -39,7 +40,14 @@ ul{
 }
 
 .img-wrapp{
-    text-align: center;
-    padding-top: 1rem;
+    /*display: grid;*/ 
+    /*place-items: center;*/
+    display: flex;
+    justify-content: center;
 }
 
+img{
+    display: grid;
+    place-items: center;
+    padding: 2rem 1rem;
+}
