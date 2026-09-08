@@ -15,19 +15,21 @@ header{
 section{
     background-color: #2EC4B6;
     border-radius: 2rem;
-    margin: 1rem 1rem;
 }
 
 h2{
     text-align: center;
+    padding-bottom: 1rem;
 }
 
 
 li{
     background-color: darkcyan;
+    color: yellow;
     border: 2px solid darkcyan;
     border-radius: 1rem;
-    width: max-content;
+    width: fit-content;
+    
 }
 
 ul{
@@ -40,3 +42,4 @@ ul{
     text-align: center;
     padding-top: 1rem;
 }
+
