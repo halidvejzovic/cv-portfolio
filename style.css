@@ -1,7 +1,11 @@
 body{
     background-color: #FCECCF;
     
+    
 }
+
+
+
 
 
 .head, .footer{
@@ -33,7 +37,6 @@ li{
     color: yellow;
     border: 2px solid darkcyan;
     border-radius: 1rem;
-    width: fit-content;
     
 }
 
@@ -43,6 +46,7 @@ li{
     align-items: center;
     flex-wrap: wrap;
     padding: 2rem 1rem;
+    padding-left: 2rem;
     gap: 2rem;
 }
 
